@@ -1,3 +1,4 @@
+#1.1
 a = 5  #int
 b = 3.14 #float
 c = "Python" #string
@@ -7,6 +8,7 @@ f = {"nombre": "Juan", "edad": 30} #dict
 g = {1, 2, 3} #set
 h = True #bool
 
+#1.2
 # Convierte lo siguiente:
 
 # - El entero 10 a flotante
@@ -39,7 +41,7 @@ lista3 = [1,2,2,3,4,4]
 conjunto = set(lista3)
 print(conjunto)
 
-
+#1.3
 #Resuelve las siguientes expresiones y determina su resultado:
 # Aritmética
 a = 10 + 5 * 2 - 8 / 4  #18
