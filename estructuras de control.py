@@ -1,3 +1,4 @@
+#2.1
 # Dado un número, imprime:
 # - "Par positivo" si es par y mayor que cero
 # - "Par negativo" si es par y menor que cero
@@ -26,6 +27,7 @@ numeros(0)
 numeros(8)    
 numeros(-7)   
 
+#2.2
 #fibonacci
 n = int(input("Ingrese un numero: ")) 
 a = 0
@@ -36,7 +38,7 @@ for i in range(n):
     a = b  
     b = c 
 
-
+#2.3
 #Escribe un programa que recorra una lista e imprima solo los números pares.
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for i in numeros:
